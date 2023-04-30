@@ -1,0 +1,23 @@
+.footer{
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+h4{
+    margin: 10px;
+}
+.about{
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+.footer div{
+    text-align: center;
+
+}
